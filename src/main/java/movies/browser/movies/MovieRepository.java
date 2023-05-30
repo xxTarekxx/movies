@@ -1,2 +1,4 @@
-package movies.browser.movies;public interface MovieRepository {
+package movies.browser.movies;
+
+public interface MovieRepository {
 }
